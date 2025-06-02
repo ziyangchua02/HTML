@@ -22,7 +22,7 @@ Check your HTML for errors or warnings using the official W3C validator:
 
 ---
 
-## ✅ Links for free images
+## 📷 Links for free images
 
 🔗 [https://bing.com/images](https://bing.com/images)<br>
 🔗 [https://unsplash.com](https://unsplash.com)<br>
