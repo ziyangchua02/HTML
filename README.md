@@ -24,6 +24,6 @@ Check your HTML for errors or warnings using the official W3C validator:
 
 ## ✅ Links for free images
 
-🔗 [https://bing.com/images](https://bing.com/images)
-🔗 [https://unsplash.com](https://unsplash.com)
-🔗 [[https://pexel.com](https://pexel.com)
+🔗 [https://bing.com/images](https://bing.com/images)<br>
+🔗 [https://unsplash.com](https://unsplash.com)<br>
+🔗 [https://pexel.com](https://pexel.com)
