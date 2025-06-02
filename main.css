@@ -1,7 +1,18 @@
 html {
         font-size: 22px;
       }
-      body {
+    
+body {
         background-color: #ffffff;
         color: #000000;
+      }
+
+a {
+        color: black;
+      }
+a:visited {
+        color: aliceblue;
+      }
+a:hover, a:active {
+        color: red;
       }
